@@ -19,7 +19,10 @@
     "url": "https://github.com/occultskyrong/benchmark-test/issues"
   },
   "homepage": "https://github.com/occultskyrong/benchmark-test#readme",
-  "dependencies": {},
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "kafka-node": "^4.0.0"
+  },
   "devDependencies": {
     "cz-conventional-changelog": "^2.1.0"
   },

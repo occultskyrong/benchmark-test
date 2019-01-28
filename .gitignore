@@ -19,7 +19,6 @@ code/npm-lock.log
 code/yarn.lock
 
 # logs
-*.log
 
 # static file
 public/

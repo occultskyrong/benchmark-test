@@ -15,6 +15,7 @@
     "class-methods-use-this": "off",
     "indent": [1, 2],
     "max-len": [2, 150],
+    "new-parens": "warn",
     "no-mixed-operators": "warn",
     "no-param-reassign": "warn",
     "no-underscore-dangle": "warn",
