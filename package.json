@@ -1,0 +1,31 @@
+{
+  "name": "benchmark-test",
+  "version": "1.0.0",
+  "description": "Benchmarking, mainly for concurrent performance testing.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/occultskyrong/benchmark-test.git"
+  },
+  "keywords": [
+    "benchmark"
+  ],
+  "author": "occultskyrong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/occultskyrong/benchmark-test/issues"
+  },
+  "homepage": "https://github.com/occultskyrong/benchmark-test#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "cz-conventional-changelog": "^2.1.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "env": {
+    "node": true,
+    "es6": true,
+    "jest": true
+  },
+  "globals": {},
+  "extends": "airbnb-base",
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": 2017
+  },
+  "rules": {
+    "camelcase": "warn",
+    "class-methods-use-this": "off",
+    "indent": [1, 2],
+    "max-len": [2, 150],
+    "no-mixed-operators": "warn",
+    "no-param-reassign": "warn",
+    "no-underscore-dangle": "warn",
+    "object-curly-newline": "warn"
+  }
+}
